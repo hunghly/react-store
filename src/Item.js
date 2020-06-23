@@ -2,7 +2,7 @@ import React from 'react';
 import './Item.css';
 
 const Item = ({item, onAddToCart}) => {
-    <div className="Item">
+    return <div className="Item">
         <div className="Item-left">
             <div className="Item-image">
                 <div className="Item-title">
