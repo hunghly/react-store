@@ -13,6 +13,7 @@ const App = () => {
     setCart(prevCart => [...prevCart, item]);
   };
 
+  // Empty comment
 
   return (
     <div className="App">
