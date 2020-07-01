@@ -5,6 +5,7 @@ import ItemPage from './ItemPage';
 import {items} from './static-data';
 
 // comment
+// added a branch called branching
 
 const App = () => {
   const [activeTab, setActiveTab] = useState("item");
