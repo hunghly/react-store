@@ -4,6 +4,8 @@ import "./App.css";
 import ItemPage from './ItemPage';
 import {items} from './static-data';
 
+// comment
+
 const App = () => {
   const [activeTab, setActiveTab] = useState("item");
   const [cart, setCart] = useState([]);
